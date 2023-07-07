@@ -7,3 +7,4 @@ A fun Tenzies game created using React JS
 3. Keep doing it until all numbers on the die are same
 
 # Link for the hosted game
+https://tenzies-khanak21.netlify.app/
