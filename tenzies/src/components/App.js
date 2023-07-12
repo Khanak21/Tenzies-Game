@@ -53,7 +53,7 @@ export default function App() {
       <main>
          {tenzies && <Confetti/>}
         <h1 className="title">Tenzies</h1>
-            <p className="instructions">{tenzies ? "You won!🎉 Wanna play again?" : "Roll until all dice are the same. Click each die to freeze it at its current value between rolls."}</p>
+            <p className="instructions">{tenzies ? "Breaking news: Tenzies game declares you the undisputed ruler of awesomeness! 🎉 Wanna play again?" : "Roll until all dice are the same. Click each die to freeze it at its current value between rolls."}</p>
           <div className="dice-container">
               {newArr}
           </div>
